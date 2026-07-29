@@ -144,7 +144,8 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-![Uploading image.png…]()
+![Uploading Screenshot 2026-07-29 191622.png…]()
+
 
 
 ## 📈 Model
