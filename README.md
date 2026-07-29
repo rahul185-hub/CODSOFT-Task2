@@ -144,17 +144,8 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-You can add screenshots of your application here.
+![Uploading image.png…]()
 
-Example:
-
-```
-screenshots/
-├── home.png
-├── prediction.png
-```
-
----
 
 ## 📈 Model
 
