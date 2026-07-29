@@ -1,3 +1,7 @@
+Name: Rahul Bisht 
+Domain: Machine Learning 
+
+
 # 💳 Credit Card Fraud Detection using Machine Learning
 
 A Machine Learning project that predicts whether a credit card transaction is **Fraudulent** or **Legitimate** using the **LightGBM** algorithm. The project also includes a **Streamlit** web application for an interactive user experience.
